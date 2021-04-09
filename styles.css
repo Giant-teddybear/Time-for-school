@@ -1,0 +1,109 @@
+h1 {
+    text-align: center;
+
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.school {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 500px;
+}
+
+
+
+
+.button1:hover {
+    color: blue;
+    background-color: pink;
+}
+
+
+.button2:hover {
+    color: blue;
+    background-color: pink;
+}
+
+
+.firstpage {}
+
+.secondpage {
+    border: 3px solid;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+
+.class:hover {
+    color: blue;
+    background-color: pink;
+}
+
+
+.thirdpage {
+    border: 3px solid;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+
+
+.car {
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+
+.youtube {
+    display: block;
+    height: 200px;
+    width: 200px;
+
+}
+
+.games {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+mark {
+    background-color: white;
+    position: relative;
+    left: 80px;
+    top: 10px;
+}
+
+.fifthpage {}
+
+div.panel,
+div.flip {
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    background: #e5eecc;
+    border: solid 1px #c3c3c3;
+    width: 140px;
+}
+
+div.panel {
+    display: none;
+}
+
+div.question {
+    float: left;
+}
+
+div.questions {
+    height: 80px;
+}
